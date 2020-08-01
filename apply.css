@@ -1,0 +1,89 @@
+/******************************************************/
+/************** CSS FOR TAKE-ACTION.HTML **************/
+/******************************************************/
+
+.page-header-action {
+  width: 100%;
+  position: absolute;
+  text-transform: capitalize;
+  background-color: #0da195;
+  font-size: 2em;
+  border: solid white;
+  display: flex;
+  justify-content: center;
+}
+
+.images {
+  display: flex;
+  flex-direction: space-around;
+  flex-wrap: wrap;
+  padding: 80px;
+  margin: 20px;
+}
+
+/* img positions */
+#doc-pic {
+  width: 400px;
+  height 400px;
+  position: relative;
+  right: 5%;
+}
+
+#poster-pic {
+  width: 300px;
+  height: 450px;
+  position: relative;
+  right: 3%;
+}
+
+/* page buttons */
+
+.btn-container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 56%;
+  bottom: 67%;
+}
+
+#other-container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: start;
+  position: relative;
+  left: 5%;
+  bottom: 67%;
+  
+}
+
+.column-btns {
+  width: 40%;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 80px;
+  text-align: center;
+  background-color: #c68dff;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
+  border: solid white;
+  border-radius: 4.5%;
+}
+
+#bottom-btn {
+  width: 75%;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 80px;
+  text-align: center;
+  background-color: #c68dff;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
+  border: solid white;
+  border-radius: 4.5%;
+}
+

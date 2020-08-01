@@ -1,0 +1,23 @@
+/* page buttons */
+
+.btn-container {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 25%;
+  top: 10%;
+}
+
+.resource-btn {
+  width: 50%;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 80px;
+  text-align: center;
+  background-color: #c68dff;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
+  border: solid white;
+  border-radius: 4.5%;
+}

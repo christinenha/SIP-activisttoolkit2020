@@ -1,0 +1,61 @@
+/* page buttons */
+
+.container {
+  width: 500px;
+  height: 125px;
+  margin: 100px auto;
+  background-color: #c68dff;
+  border: solid white;
+  text-align: center;
+  position: relative;
+  left: 25%;
+}
+
+.container-two {
+  width: 500px;
+  height: 425px;
+  margin: 100px auto;
+  background-color: #c68dff;
+  border: solid white;
+  position: relative;
+  left: 25%;
+  bottom: 8%;
+}
+
+/* font and etc */
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 10px;
+  right: 50%;
+  padding:0px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  margin: 10px;
+  right: 50%;
+  padding:0px;
+  text-align: center;
+}
+
+#library-image {
+  width: 570px;
+  height: 450px;
+  border-radius: 50%;
+  border: solid white;
+  position: relative;
+  left: 5%;
+  bottom: 700px;
+}
+
+#link {
+  color: white;
+  font-size: 15px;
+  position: relative;
+  left: -1.5%;
+  bottom: 700px;
+}
+
+/* image */
